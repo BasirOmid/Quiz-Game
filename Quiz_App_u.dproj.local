@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/17 23:03:28.000.393,=D:\Delphiiii\Unit3.pas</Transaction>
+    <Transaction>2022/03/27 18:52:29.000.768,=D:\Delphiiii\Unit3.pas</Transaction>
+    <Transaction>2022/03/27 19:17:38.000.343,=D:\Delphiiii\Unit3.pas</Transaction>
+    <Transaction>2022/06/19 15:51:21.000.215,=D:\Delphiiii\Unit3.pas</Transaction>
+    <Transaction>2022/06/19 23:21:06.000.424,D:\Delphiiii\Quiz_App.pas=D:\Delphiiii\Unit3.pas</Transaction>
+    <Transaction>2022/06/19 23:21:06.000.424,D:\Delphiiii\Quiz_App.fmx=D:\Delphiiii\Unit3.fmx</Transaction>
+    <Transaction>2022/06/19 23:21:18.000.689,D:\Delphiiii\Quiz_App_u.dproj=D:\Delphiiii\Project3.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
